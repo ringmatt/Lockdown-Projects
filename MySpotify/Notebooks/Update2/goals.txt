@@ -1,0 +1,4 @@
+Goals for Update 2:
+1) Prepare the data for a binary classification model
+2) Select two playlists to differentiate between
+3) Construct a ML model to predict the playlist
